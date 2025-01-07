@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <align="left">Specializing in Python and DBMS, SQL like analytical software., and network and database administration. Skilled in troubleshooting, data management, and website design and proficient in tools like AutoCAD, Blender, and Adobe Creative Suite, I’m dedicated to delivering exceptional results through data manipulation and analysis. I have a passion for Artificial and Machine Learning. Currently, I am advancing my skills toward becoming an AI/ML engineer.
-  I’m looking to collaborate on innovative projects in the web development and tech industry.<br>
+  <br>I’m looking to collaborate on innovative projects in the web development and tech industry.<br>
 
 
 <br><p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/ritsh_05?logo=twitter&style=for-the-badge" alt="ritsh_05" /></a> </p>
