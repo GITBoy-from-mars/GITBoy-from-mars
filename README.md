@@ -3,7 +3,7 @@
 
 <br>Specializing in Python and DBMS, SQL like analytical software., and network and database administration. Skilled in troubleshooting, data management, and website design and proficient in many tools like AutoCAD, Blender, and Adobe Creative Suite, I’m dedicated to delivering exceptional results through data manipulation and analysis. I am advancing my skills toward an AI/ML field.<br>
 
-  <h4 align="center">I’m looking to collaborate on innovative projects in the web development and tech industry</h4>
+  <h4 align="center">I’m looking to collaborate on innovative projects in the Analytics and tech industry</h4>
 
 
 <br><p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/ritsh_05?logo=twitter&style=for-the-badge" alt="ritsh_05" /></a> </p>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **python, SQL, DBMS**
 
-- 📫 How to reach me [E-mail](riteshrajpoot0007@gmail.com)
+- 📫 How to reach me [E-mail](mailto:riteshrajpoot0007@gmail.com)
 
 - 📄 Know about my experiences [Here](https://docs.google.com/document/d/1ra5P5iIDDgqAZtblxHFDylIwYiCC5fqg476ulJr-kkM/edit?usp=sharing)
 
