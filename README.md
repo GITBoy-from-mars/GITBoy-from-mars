@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitboy-from-mars&label=Profile%20views&color=0e75b6&style=flat" alt="gitboy-from-mars" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/@ritsh_05?logo=twitter&style=for-the-badge" alt="@ritsh_05" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/@ritsh_05?logo=twitter&style=for-the-badge" alt="ritsh_05" /></a> </p>
 
 - 🔭 I’m currently working on **My Skills towards AI and ML**
 
