@@ -9,8 +9,10 @@
 ---
 ## 🛠️ Languages and Tools
   <p align="left">
+
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
+  
   <img width="8" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django" />
 
@@ -36,12 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
 
   <img width="8" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman" />
-
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
-
-  <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="pytorch" />
 
   <img width="8" />
@@ -55,12 +51,19 @@
 
   <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="tensorflow" />
+  
+  <img width="8" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman" />
+
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" />
 
    <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="40" alt="zapier" />
 
-  
 </p>
+
+
 ---
 
 ## 📞 Connect with Me
@@ -74,26 +77,17 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:riteshrajpoot0007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"  />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="E-mail"  />
   </a>
    <a href="https://twitter.com/@ritsh_05" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
    <a href="https://instagram.com/__.singh_05" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram" alt="Instagram" />
   </a>
 </p>
 
 ---
-
-
-
-<p align="left">
-<a href="https://twitter.com/@ritsh_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ritsh_05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/ritesh-dangi-4a4612273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ritesh-dangi-4a4612273/" height="30" width="40" /></a>
-<a href="https://instagram.com/__.singh_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.singh_05" height="30" width="40" /></a>
-</p>
-
 
 
 
@@ -107,21 +101,9 @@
 
 - ⚡ Fun fact **I think I am Curious about Tech**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ritsh_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ritsh_05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/ritesh-dangi-4a4612273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ritesh-dangi-4a4612273/" height="30" width="40" /></a>
-<a href="https://instagram.com/__.singh_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.singh_05" height="30" width="40" /></a>
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitboy-from-mars&show_icons=true&locale=en&layout=compact" alt="gitboy-from-mars" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitboy-from-mars&show_icons=true&locale=en" alt="gitboy-from-mars" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitboy-from-mars&label=Profile%20views&color=0e75b6&style=flat" alt="gitboy-from-mars" /> </p>
-
-
-
-
-<br><p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/ritsh_05?logo=twitter&style=for-the-badge" alt="ritsh_05" /></a> </p>
