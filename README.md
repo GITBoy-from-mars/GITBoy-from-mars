@@ -17,9 +17,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django" />
 
   <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg" height="40" alt="Flask" />
-
-  <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP" />
 
   <img width="8" />
@@ -30,9 +27,6 @@
 
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-
-  <img width="8" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="opencv" />
 
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
