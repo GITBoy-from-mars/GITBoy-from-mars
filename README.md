@@ -3,7 +3,7 @@
   I’m looking to collaborate on innovative projects in the web development and tech industry.<br>
 
 
-<p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/ritsh_05?logo=twitter&style=for-the-badge" alt="ritsh_05" /></a> </p>
+<br><p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/ritsh_05?logo=twitter&style=for-the-badge" alt="ritsh_05" /></a> </p>
 
 - 🔭 I’m currently working on **My Skills towards AI and ML**
 
