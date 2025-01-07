@@ -1,4 +1,4 @@
-# Hi I'm Ritesh Dangi
+# Hi I'm Ritesh
 <h3 align="center">I have a passion for Artificial and Machine Learning</h3>
 
 <br>Specializing in Python and DBMS, SQL like analytical software., and network and database administration. Skilled in troubleshooting, data management, and website design and proficient in many tools like AutoCAD, Blender, and Adobe Creative Suite, I’m dedicated to delivering exceptional results through data manipulation and analysis. I am advancing my skills toward an AI/ML field.<br>
@@ -87,19 +87,23 @@
   </a>
 </p>
 
+
+
 ---
 
 
+## About Me
 
 - 🔭 I’m currently working on **My Skills towards AI and ML**
-
-- 💬 Ask me about **python, SQL, DBMS**
-
-- 📫 How to reach me [E-mail](mailto:riteshrajpoot0007@gmail.com)
 
 - 📄 Know about my experiences [Here](https://docs.google.com/document/d/1ra5P5iIDDgqAZtblxHFDylIwYiCC5fqg476ulJr-kkM/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am Curious about Tech**
+
+
+
+---
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitboy-from-mars&show_icons=true&locale=en&layout=compact" alt="gitboy-from-mars" /></p>
