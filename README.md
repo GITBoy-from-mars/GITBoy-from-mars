@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">A passionate dev. from India</h3>
+<h3 align="center">Specializing in Python and DBMS, SQL like analytical software., and network and database administration. Skilled in troubleshooting, data management, and website design and proficient in tools like AutoCAD, Blender, and Adobe Creative Suite, I’m dedicated to delivering exceptional results through data manipulation and analysis. I have a passion for Artificial and Machine Learning. Currently, I am advancing my skills toward becoming an AI/ML engineer.
+  I’m looking to collaborate on innovative projects in the web development and tech industry.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitboy-from-mars&label=Profile%20views&color=0e75b6&style=flat" alt="gitboy-from-mars" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/@ritsh_05?logo=twitter&style=for-the-badge" alt="ritsh_05" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ritsh_05" target="blank"><img src="https://img.shields.io/twitter/follow/ritsh_05?logo=twitter&style=for-the-badge" alt="ritsh_05" /></a> </p>
 
 - 🔭 I’m currently working on **My Skills towards AI and ML**
 
@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitboy-from-mars&show_icons=true&locale=en&layout=compact" alt="gitboy-from-mars" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitboy-from-mars&show_icons=true&locale=en" alt="gitboy-from-mars" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitboy-from-mars&label=Profile%20views&color=0e75b6&style=flat" alt="gitboy-from-mars" /> </p>
