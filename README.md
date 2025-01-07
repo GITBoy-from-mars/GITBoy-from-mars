@@ -8,7 +8,7 @@
 
 ---
 ## 🛠️ Languages and Tools
-  </p>
+  <p align="left">
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" />
   <img width="8" />
