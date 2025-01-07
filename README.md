@@ -65,7 +65,7 @@
 
 <p>
   <a href="https://linkedin.com/ritesh-dangi-4a4612273/" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin" />
   </a>
   <a href="https://github.com/GITBoy-from-mars" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
@@ -74,10 +74,10 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="E-mail"  />
   </a>
    <a href="https://twitter.com/@ritsh_05" target="_blank" >
-    <img src="https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=x" alt="Twitter" />
   </a>
    <a href="https://instagram.com/__.singh_05" target="_blank" >
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-darkorange?style=for-the-badge&logo=Instagram" alt="Instagram" />
   </a>
 </p>
 
