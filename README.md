@@ -64,7 +64,7 @@
 
 
 <p>
-  <a href="https://linkedin.com/ritesh-dangi-4a4612273/" target="_blank" >
+  <a href="https://www.linkedin.com/in/-ritesh-rajpoot/" target="_blank" >
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin" />
   </a>
   <a href="https://github.com/GITBoy-from-mars" target="_blank">
@@ -89,8 +89,6 @@
 ## About Me
 
 - 🔭 I’m currently working on **My Skills towards AI and ML**
-
-- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1ra5P5iIDDgqAZtblxHFDylIwYiCC5fqg476ulJr-kkM/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am Curious about Tech**
 
